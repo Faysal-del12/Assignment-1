@@ -61,7 +61,7 @@ nav{
     padding: 8px 12px 8px  34px;
     color: #276941;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 550;
     border: none;
     cursor: pointer;
 }
@@ -100,7 +100,7 @@ nav{
     cursor: pointer;
     border: none;
     margin-right: 10px;
-    
+
 }
 .btn-1{
     padding: 11px 16px 11px 46px ;
@@ -149,7 +149,7 @@ nav{
     width: 322px;
     height: 300px;
     /* border: 2px solid rgb(234, 11, 11); */
-    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.099);
+    box-shadow: 0 6px 50px 0px rgba(0, 0, 0, 0.099);
 }
 .h3{
     font: weight 800px;;
@@ -212,4 +212,83 @@ nav{
     font-weight: 650;
     line-height: 40px;
     font-size: 16px;
+}
+.q{
+    background-color:#F7F6F2 ;
+    text-align: center;
+    width: 1360px;
+    height: 384px;
+    margin: 0 auto 120px;
+    border-radius: 15px;
+}
+.q-1{
+    max-width: 1280px;
+    padding-top: 80px;
+}
+
+.q-1 h2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+    margin-bottom: 16px;
+    color: #001931;
+}
+.q-1, .q-2 p{
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+
+.q-2 button{
+    padding: 16.5px 46px 16.5px 16.5px;
+    color:#FFFFFF;
+    background-color:#469165 ;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.end{
+    display: flex;
+    gap: 1001px;
+    justify-content: center;
+    background-color:#001931 ;
+    height: 250px;
+    padding-top: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+    padding-left: 120px;
+}
+.end-2 a img{
+    height: 19px;
+    width: 20px;
+    padding: 4.12px 4.13px 4.25px ;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-right: 16px;
+}
+.end-2 p{
+    color:#FFFFFF ;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom:16px ;
+}
+.copy{
+    background-color: #001931;
+    padding: 110px 120px 30px 120px;
+}
+.copy hr{
+    margin-bottom:30px ;
+    color:#E5E7EB;
+}
+.copy p{
+    width: 1360px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FAFAFA;
+    font-weight: 400;
+
 }
